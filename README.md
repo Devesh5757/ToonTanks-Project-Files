@@ -3,4 +3,4 @@
 
 # Note
 
-If you're interested in testing or examining the project, you can do so by downloading the ToonTanks_Project_Files.rar file. Simply click [here](https://media.githubusercontent.com/media/Devesh5757/ToonTanks-Project-Files/main/ToonTanks_Project_Files.rar?download=true&token=AVL56IIA74OCPPUB7GAMTA3GDOPRI) to download. Once downloaded, extract the files and explore the project at your convenience.
+If you're interested in testing or examining the project, you can do so by downloading the ToonTanks_Project_Files.rar file. Simply click [here](https://media.githubusercontent.com/media/Devesh5757/ToonTanks-Project-Files/main/ToonTanks_Project_Files.rar?download=true&token=AVL56IIA74OCPPUB7GAMTA3GDOPRI) (It can take little time) to download. Once downloaded, extract the files and explore the project at your convenience.
