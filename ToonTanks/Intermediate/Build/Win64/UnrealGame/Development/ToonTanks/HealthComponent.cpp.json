@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\toontanks\\toontanksprojectsetup_4.22\\toontanksprojectsetup_4.22\\toontanks 5.0\\source\\toontanks\\healthcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\toontanks\\toontanksprojectsetup_4.22\\toontanksprojectsetup_4.22\\toontanks 5.0\\intermediate\\build\\win64\\toontanks\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal\\toontanks\\toontanksprojectsetup_4.22\\toontanksprojectsetup_4.22\\toontanks 5.0\\intermediate\\build\\win64\\unrealgame\\development\\toontanks\\definitions.toontanks.h",
+            "d:\\unreal\\toontanks\\toontanksprojectsetup_4.22\\toontanksprojectsetup_4.22\\toontanks 5.0\\source\\toontanks\\healthcomponent.h",
+            "d:\\unreal\\toontanks\\toontanksprojectsetup_4.22\\toontanksprojectsetup_4.22\\toontanks 5.0\\intermediate\\build\\win64\\unrealgame\\inc\\toontanks\\healthcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\dialoguetypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\gameplaystaticstypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\gameplaystatics.generated.h",
+            "d:\\unreal\\toontanks\\toontanksprojectsetup_4.22\\toontanksprojectsetup_4.22\\toontanks 5.0\\source\\toontanks\\toontanksgamemode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\unreal\\toontanks\\toontanksprojectsetup_4.22\\toontanksprojectsetup_4.22\\toontanks 5.0\\intermediate\\build\\win64\\unrealgame\\inc\\toontanks\\toontanksgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

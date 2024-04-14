@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\toontanks\\toontanksprojectsetup_4.22\\toontanksprojectsetup_4.22\\toontanks 5.0\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\basepawn.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\toontanks\\toontanksprojectsetup_4.22\\toontanksprojectsetup_4.22\\toontanks 5.0\\intermediate\\build\\win64\\toontankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal\\toontanks\\toontanksprojectsetup_4.22\\toontanksprojectsetup_4.22\\toontanks 5.0\\intermediate\\build\\win64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "d:\\unreal\\toontanks\\toontanksprojectsetup_4.22\\toontanksprojectsetup_4.22\\toontanks 5.0\\source\\toontanks\\basepawn.h",
+            "d:\\unreal\\toontanks\\toontanksprojectsetup_4.22\\toontanksprojectsetup_4.22\\toontanks 5.0\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\basepawn.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

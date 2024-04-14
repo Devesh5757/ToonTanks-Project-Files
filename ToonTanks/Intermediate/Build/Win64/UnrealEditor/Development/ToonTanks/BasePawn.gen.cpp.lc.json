@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\toontanksprojectsetup_4.22\\toontanksprojectsetup_4.22\\toontanks 5.0\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\basepawn.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\toontanksprojectsetup_4.22\\toontanksprojectsetup_4.22\\toontanks 5.0\\intermediate\\build\\win64\\toontankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal\\toontanksprojectsetup_4.22\\toontanksprojectsetup_4.22\\toontanks 5.0\\intermediate\\build\\win64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "d:\\unreal\\toontanksprojectsetup_4.22\\toontanksprojectsetup_4.22\\toontanks 5.0\\source\\toontanks\\basepawn.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\capsulecomponent.generated.h",
+            "d:\\unreal\\toontanksprojectsetup_4.22\\toontanksprojectsetup_4.22\\toontanks 5.0\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\basepawn.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
